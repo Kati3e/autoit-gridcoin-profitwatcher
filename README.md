@@ -18,5 +18,5 @@ Changes:
   * v0.2: Added error handling, should be no more crashes, please report any crashes to me.
 
 
-Coded by: Katiee
-  Find me on IRC @ irc://irc.freenode.net/#gridcoin
+Coded by: Katiee  
+  - Find me on IRC @ irc://irc.freenode.net/#gridcoin
