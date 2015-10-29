@@ -1,5 +1,5 @@
-# Katiee's GRC Profit Margin Watcher v0.2
-(October 25th, 2015)
+# Katiee's GRC Profit Margin Watcher v0.3
+(October 29th, 2015)
 
   This script watches BTC-USD and BTC-GRC Prices and alerts you to profit margins based on the price you bought
  	  into BTC and GRC in the past. Please edit the "User Settings" for your own profit margins.
@@ -16,7 +16,7 @@ To-do:
 Changes:
 -------
   * v0.2: Added error handling, should be no more crashes, please report any crashes to me.
-
+  * v0.3: Added data logging and a graph.
 
 Coded by: Katiee  
   - Find me on IRC @ irc://irc.freenode.net/#gridcoin
