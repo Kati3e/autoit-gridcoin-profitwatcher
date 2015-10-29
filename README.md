@@ -1,5 +1,4 @@
-# autoit-gridcoin-profitwatcher
-Katiee's GRC Profit Margin Watcher v0.2 (October 25th, 2015)
+# Katiee's GRC Profit Margin Watcher v0.2 (October 25th, 2015)
 
   This script watches BTC-USD and BTC-GRC Prices and alerts you to profit margins based on the price you bought
  	  into BTC and GRC in the past. Please edit the "User Settings" for your own profit margins.
